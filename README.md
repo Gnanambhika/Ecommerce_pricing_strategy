@@ -116,7 +116,7 @@ analysis page. The simulator adds its own product/platform scope.
 ├── data/templates/              # import template
 ├── scripts/                     # generate_data.py, smoke_test.py
 ├── tests/                       # 121 pytest tests
-├── docs/                        # setup, methodology, deployment, interview guide, resume entry
+├── docs/                        # setup, methodology, deployment, interview guide, resume entry, screenshots/
 ├── assets/logo.svg
 ├── .streamlit/config.toml       # theme only, no secrets
 ├── requirements.txt / requirements-dev.txt / pyproject.toml
@@ -247,15 +247,25 @@ checklist: [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md).
 
 ## Screenshots
 
-_Placeholders: add images to `docs/screenshots/` after deployment._
+All screenshots show the bundled **synthetic** dataset.
 
-| Executive Overview | Pricing & Competitors | Demand & Elasticity |
-|---|---|---|
-| `docs/screenshots/overview.png` | `docs/screenshots/pricing.png` | `docs/screenshots/elasticity.png` |
+**Executive Overview**: KPIs, monthly trend and where gross profit comes from
+![Executive Overview](docs/screenshots/overview.png)
 
-| Discounts & Profitability | Scenario Simulator | Data Quality |
-|---|---|---|
-| `docs/screenshots/discounts.png` | `docs/screenshots/simulator.png` | `docs/screenshots/data_quality.png` |
+**Pricing & Competitors**: price gap, share of units below/above competitor, performance by price position
+![Pricing & Competitors](docs/screenshots/pricing.png)
+
+**Discounts & Profitability**: discount depth vs volume and margin, promotion vs regular weeks
+![Discounts & Profitability](docs/screenshots/discounts.png)
+
+**Demand & Elasticity**: fixed-effects estimates with 95% CIs vs naive slopes and the generator's true values
+![Demand & Elasticity](docs/screenshots/elasticity.png)
+
+**Scenario Simulator**: a +10% price scenario with extrapolation warning, break-even check and profit curve
+![Scenario Simulator](docs/screenshots/simulator.png)
+
+**Data Quality & Methodology**: validation report, field completeness and CSV import
+![Data Quality & Methodology](docs/screenshots/data_quality.png)
 
 ## Known limitations
 
