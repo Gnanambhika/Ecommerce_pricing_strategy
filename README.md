@@ -11,7 +11,8 @@ with **pytest**, and designed to deploy on **Streamlit Community Cloud**.
 > brands, products and channels. It is **not real marketplace evidence**. You can upload your own CSV
 > in the app (processed in memory for your session only).
 
-**Live demo:** _add the Streamlit Community Cloud URL here after deployment_
+**Live demo:** [ecommercepricingstrategy-nkk8jbgt8xvtfna7bgdse7.streamlit.app](https://ecommercepricingstrategy-nkk8jbgt8xvtfna7bgdse7.streamlit.app)  
+**Repository:** [github.com/Gnanambhika/Ecommerce_pricing_strategy](https://github.com/Gnanambhika/Ecommerce_pricing_strategy)
 
 ---
 

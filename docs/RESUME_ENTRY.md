@@ -7,7 +7,7 @@ bullets with outcomes you can verify.
 ## Project entry (choose 3–4 bullets)
 
 **E-commerce Pricing Strategy & Profitability Intelligence** | Python, SQL (SQLite), pandas, NumPy, statsmodels, Plotly, Streamlit, pytest
-*[GitHub link] · [Live demo link]*
+*[GitHub](https://github.com/Gnanambhika/Ecommerce_pricing_strategy) · [Live demo](https://ecommercepricingstrategy-nkk8jbgt8xvtfna7bgdse7.streamlit.app)*
 
 - Built a six-page interactive analytics app covering executive KPIs, competitor price positioning, discount
   profitability, price elasticity and a pricing scenario simulator, with global date, category, brand and channel filters.
@@ -21,7 +21,7 @@ bullets with outcomes you can verify.
 - Developed a scenario simulator (price, cost, elasticity, demand shift) with break-even volume, confidence-interval
   sensitivity and guard-rails for below-cost and out-of-range prices, clearly separating simulations from observed results.
 - Delivered 121 automated tests (unit, SQL, model-recovery and UI smoke tests), lint checks and a reproducible setup,
-  ready for Streamlit Community Cloud deployment (update to "deployed" once live).
+  deployed on Streamlit Community Cloud.
 
 ## One-line version
 
