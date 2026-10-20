@@ -1,0 +1,71 @@
+# ---------------------------------------------------------------
+# Secrets and credentials: never commit
+# ---------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.env
+.streamlit/secrets.toml
+secrets.toml
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials*.json
+service-account*.json
+*token*.txt
+.netrc
+.pypirc
+
+# ---------------------------------------------------------------
+# Private / user data: only the bundled synthetic sample is tracked
+# ---------------------------------------------------------------
+data/*
+!data/sample/
+!data/templates/
+data/sample/*
+!data/sample/synthetic_pricing_data.csv
+!data/sample/messy_import_example.csv
+!data/sample/SYNTHETIC_DATA_NOTICE.md
+data/templates/*
+!data/templates/import_template.csv
+*.db
+*.sqlite
+*.sqlite3
+*.parquet
+*.xlsx
+*.xls
+uploads/
+private/
+
+# ---------------------------------------------------------------
+# Python / tooling
+# ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.venv-*/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------
+# OS / editors
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log

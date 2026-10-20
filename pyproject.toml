@@ -1,0 +1,33 @@
+[project]
+name = "ecommerce-pricing-intelligence"
+version = "1.0.0"
+description = "E-commerce pricing strategy and profitability analytics app (Streamlit + SQLite + Plotly)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]
+testpaths = ["tests"]
+addopts = "-q"
+filterwarnings = [
+    "ignore::DeprecationWarning:statsmodels.*",
+]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+src = ["src", "tests", "scripts"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "S"]
+ignore = [
+    "S101",   # assert is fine in tests
+    "S608",   # SQL built from a fixed whitelist; values are bound parameters (see db.py)
+    "S603", "S607",  # subprocess in the smoke test runs our own app
+    "B008",
+]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S311"]
+"src/pricing_intel/data_generation.py" = ["S311"]

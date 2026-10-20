@@ -1,0 +1,4 @@
+date,product_id,product_name,category,brand,platform,original_price,selling_price,competitor_price,unit_cost,units_sold,stock_on_hand,promo_flag
+2025-01-06,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Direct Store (D2C),8449.00,7714.00,6251.00,5083.94,38,150,0
+2025-01-06,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Marketplace North,8129.00,7428.00,6466.00,5083.94,92,159,0
+2025-01-06,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Marketplace South,8289.00,7356.00,6340.00,5083.94,54,146,0

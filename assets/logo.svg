@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="40" viewBox="0 0 236 40" role="img" aria-label="Pricing Intelligence">
+  <rect x="2" y="2" width="36" height="36" rx="9" fill="#2a78d6"/>
+  <rect x="10" y="22" width="5" height="9" rx="1.5" fill="#ffffff" opacity="0.75"/>
+  <rect x="17.5" y="16" width="5" height="15" rx="1.5" fill="#ffffff" opacity="0.88"/>
+  <rect x="25" y="10" width="5" height="21" rx="1.5" fill="#ffffff"/>
+  <text x="48" y="19" font-family="Inter, Segoe UI, system-ui, sans-serif" font-size="14.5" font-weight="700" fill="#0b0b0b">Pricing Intelligence</text>
+  <text x="48" y="33" font-family="Inter, Segoe UI, system-ui, sans-serif" font-size="10.5" font-weight="500" fill="#52514e">Profitability analytics</text>
+</svg>

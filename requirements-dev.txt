@@ -1,0 +1,4 @@
+# Local development: runtime + test and lint tools.
+-r requirements.txt
+pytest>=8,<10
+ruff>=0.6,<1

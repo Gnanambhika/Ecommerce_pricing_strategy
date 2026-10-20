@@ -1,0 +1,416 @@
+date,SKU,product_name,category,brand,Channel,MRP,Sale Price,competitor_price,unit_cost,Qty,stock_on_hand,promo_flag
+2025-02-03,SKU-0036,Oakmont Water Bottle 3,Home & Kitchen,Oakmont,Marketplace North,1769.0,1563.0,1814.0,966.77,72,187,0
+2026-03-23,SKU-0004,Velora Power Bank 1,Electronics,Velora,Direct Store (D2C),2329.0,2157.0,2108.0,1626.71,62,205,0
+2026-02-23,SKU-0016,Velora Power Bank 3,Electronics,Velora,Direct Store (D2C),3139.0,-2758.0,2915.0,2195.96,43,68,0
+2026-06-01,SKU-0044,Lumina Beard Trimmer 1,Beauty & Personal Care,Lumina,Marketplace South,359.0,323.0,,125.61,109,373,1
+2025-09-01,SKU-0083,Northwind Cycling Helmet 1,Sports & Outdoors,Northwind,Direct Store (D2C),1749.0,1399.0,1587.0,817.91,41,188,1
+2025-08-25,SKU-0031,Hearthly Storage Jars 2,Home & Kitchen,Hearthly,Direct Store (D2C),2009.0,1866.0,1975.0,867.81,24,90,0
+2025-07-28,SKU-0033,Oakmont Air Fryer 3,Home & Kitchen,Oakmont,Marketplace South,6489.0,5811.0,6111.0,3513.53,30,119,0
+2025-05-12,SKU-0110,Inkwell Desk Organizer 2,Books & Stationery,Inkwell,Direct Store (D2C),169.0,148.0,172.0,84.1,25,55,0
+2026-03-23,SKU-0085,Strideon Trekking Pole 1,Sports & Outdoors,Strideon,Marketplace South,849.0,784.0,801.0,455.19,63,166,0
+2025-05-12,SKU-0013,Velora Wireless Earbuds 3,Electronics,Velora,Direct Store (D2C),1139.0,1069.0,1059.0,729.45,24,74,0
+2025-03-17,SKU-0008,Kestrel Smartwatch 2,Electronics,Kestrel,Marketplace North,4499.0,4168.0,3484.0,2640.25,73,260,0
+2025-03-31,SKU-0020,Kestrel Smartwatch 4,Electronics,Kestrel,Marketplace South,1459.0,1413.0,1448.0,918.99,94,210,0
+2025-02-24,SKU-0106,Quillon Paperback Novel 1,Books & Stationery,Quillon,Marketplace South,179.0,162.0,,92.23,179,339,0
+2025-11-10,SKU-0055,Mistral Glow Hair Dryer 3,Beauty & Personal Care,Mistral Glow,Marketplace North,559.0,529.0,438.0,171.18,146,681,0
+2025-05-05,SKU-0090,Peakline Badminton Racket 2,Sports & Outdoors,Peakline,Marketplace North,1629.0,1544.0,0,779.82,119,293,0
+2025-08-18,SKU-0076,Northwind Backpack 3,Fashion,Northwind,Marketplace South,579.0,559.0,563.0,266.69,48,158,0
+2026-02-23,SKU-0055,Mistral Glow Hair Dryer 3,Beauty & Personal Care,Mistral Glow,Marketplace South,569.0,542.0,494.0,174.36,89,380,0
+2025-09-15,SKU-0060,Petalyn Sunscreen 4,Beauty & Personal Care,Petalyn,Marketplace North,239.0,235.0,235.0,82.86,278,834,0
+2025-12-01,SKU-0096,Peakline Badminton Racket 3,Sports & Outdoors,Peakline,Direct Store (D2C),2749.0,2594.0,1916.0,1481.87,24,108,0
+2025-06-30,SKU-0027,Oakmont Air Fryer 2,Home & Kitchen,Oakmont,Direct Store (D2C),2159.0,1943.0,1856.0,1036.85,75,143,1
+2025-04-28,SKU-0022,Hearthly Mixer Grinder 1,Home & Kitchen,Hearthly,Direct Store (D2C),5969.0,5845.0,3806.0,3447.91,27,53,0
+2026-02-02,SKU-0107,Inkwell Notebook Pack 2,Books & Stationery,Inkwell,Marketplace North,719.0,650.0,750.0,324.53,129,517,0
+2025-10-06,SKU-0098,Northwind Skipping Rope 3,Sports & Outdoors,Northwind,Marketplace South,719.0,675.0,621.0,408.72,127,235,0
+2025-03-10,SKU-0090,Peakline Badminton Racket 2,Sports & Outdoors,Peakline,Marketplace North,1629.0,1568.0,1563.0,775.85,111,344,0
+2025-07-28,SKU-0115,Quillon Planner 3,Books & Stationery,Quillon,Marketplace North,409.0,394.0,349.0,190.42,144,249,0
+2025-12-15,SKU-0089,Northwind Cycling Helmet 2,Sports & Outdoors,Northwind,Marketplace North,899.0,809.0,770.0,443.05,76,230,1
+2026-01-12,SKU-0045,Petalyn Body Lotion 1,Beauty & Personal Care,Petalyn,Marketplace North,3229.0,2845.0,2656.0,1348.34,81,219,0
+2026-04-27,SKU-0016,Velora Power Bank 3,Electronics,Velora,Direct Store (D2C),3139.0,2828.0,2365.0,2133.22,42,146,0
+2025-12-15,SKU-0025,Hearthly Storage Jars 1,Home & Kitchen,Hearthly,Marketplace North,3079.0,2981.0,,1478.38,63,242,0
+2025-04-21,SKU-0116,Inkwell Desk Organizer 3,Books & Stationery,Inkwell,Marketplace South,349.0,323.0,311.0,174.72,60,231,0
+2025-08-04,SKU-0069,Saffra Cotton T-Shirt 2,Fashion,Saffra,Marketplace North,1979.0,1784.0,,716.88,104,188,0
+2025-02-17,SKU-0046,Mistral Glow Lip Care Kit 1,Beauty & Personal Care,Mistral Glow,Marketplace North,3009.0,2811.0,2967.0,1386.46,121,334,0
+2026-05-18,SKU-0098,Northwind Skipping Rope 3,Sports & Outdoors,Northwind,Marketplace South,719.0,695.0,632.0,410.14,74,176,0
+2025-04-28,SKU-0014,Kestrel Smartwatch 3,Electronics,Kestrel,Marketplace South,4589.0,3442.0,3847.0,2563.67,39,94,1
+2025-02-10,SKU-0027,Oakmont Air Fryer 2,Home & Kitchen,Oakmont,Direct Store (D2C),2159.0,2042.0,1881.0,1015.64,54,142,0
+2025-01-20,SKU-0040,Hearthly Mixer Grinder 4,Home & Kitchen,Hearthly,Marketplace South,4249.0,4014.0,,2019.22,47,103,0
+2025-08-25,SKU-0009,Zenvolt Bluetooth Speaker 2,Electronics,Zenvolt,Marketplace North,8249.0,8031.0,,4745.64,127,206,0
+2025-12-01,SKU-0080,Urban Loom Denim Jacket 4,Fashion,Urban Loom,Marketplace South,1009.0,757.0,998.0,424.86,55,133,1
+2025-05-05,SKU-0052,Mistral Glow Lip Care Kit 2,Beauty & Personal Care,Mistral Glow,Direct Store (D2C),239.0,228.0,197.0,109.12,70,262,0
+2025-11-17,SKU-0086,Northwind Skipping Rope 1,Sports & Outdoors,Northwind,Marketplace South,5189.0,3892.0,4062.0,3137.27,59,175,1
+2026-01-26,SKU-0042,Petalyn Sunscreen 1,Beauty & Personal Care,Petalyn,Marketplace South,1099.0,1027.0,1043.0,464.1,150,502,0
+2026-02-02,SKU-0029,Kestrel Cookware Set 2,Home & Kitchen,Kestrel,Marketplace North,1489.0,1444.0,1275.0,727.74,86,265,0
+2026-01-19,SKU-0113,Inkwell Notebook Pack 3,Books & Stationery,Inkwell,Direct Store (D2C),499.0,464.0,411.0,210.28,47,161,0
+2025-07-28,SKU-0006,Zenvolt USB-C Hub 1,Electronics,Zenvolt,Marketplace North,2399.0,2360.0,2074.0,1576.52,101,349,0
+2026-03-30,SKU-0025,Hearthly Storage Jars 1,Home & Kitchen,Hearthly,Marketplace North,3079.0,2771.0,,1481.79,145,297,1
+2026-05-18,SKU-0089,Northwind Cycling Helmet 2,Sports & Outdoors,Northwind,Marketplace North,899.0,850.0,747.0,450.17,145,313,0
+2026-03-16,SKU-0004,Velora Power Bank 1,Electronics,Velora,Direct Store (D2C),2329.0,2193.0,2116.0,1607.97,53,140,0
+2025-11-24,SKU-0057,Petalyn Body Lotion 3,Beauty & Personal Care,Petalyn,Marketplace North,409.0,0,,171.0,97,335,0
+2026-03-16,SKU-0102,Papyra Fountain Pen 1,Books & Stationery,Papyra,Marketplace North,409.0,397.0,358.0,190.24,164,665,0
+2025-10-20,SKU-0116,Inkwell Desk Organizer 3,Books & Stationery,Inkwell,Direct Store (D2C),349.0,321.0,,174.6,39,122,0
+2025-04-21,SKU-0095,Northwind Cycling Helmet 3,Sports & Outdoors,Northwind,Direct Store (D2C),2289.0,2000.0,2324.0,1146.11,27,64,0
+2025-06-09,SKU-0040,Hearthly Mixer Grinder 4,Home & Kitchen,Hearthly,Marketplace South,4249.0,4058.0,3141.0,2016.54,93,333,0
+2025-04-28,SKU-0056,Lumina Beard Trimmer 3,Beauty & Personal Care,Lumina,Marketplace North,2269.0,2027.0,1934.0,895.41,149,508,0
+2026-01-19,SKU-0095,Northwind Cycling Helmet 3,Sports & Outdoors,Northwind,Direct Store (D2C),2289.0,2006.0,2258.0,1156.6,33,53,0
+2026-04-27,SKU-0013,Velora Wireless Earbuds 3,Electronics,Velora,Marketplace South,1119.0,1025.0,1040.0,731.93,41,142,0
+2026-01-19,SKU-0088,Strideon Dumbbell Set 2,Sports & Outdoors,Strideon,Marketplace North,1509.0,1485.0,1338.0,759.1,21,53,0
+2026-04-27,SKU-0059,Lumina Face Serum 4,Beauty & Personal Care,Lumina,Direct Store (D2C),379.0,366.0,0,132.57,74,215,0
+2026-01-19,SKU-0035,Kestrel Cookware Set 3,Home & Kitchen,Kestrel,Direct Store (D2C),1689.0,1487.0,1399.0,973.24,28,103,0
+2025-09-29,SKU-0051,Petalyn Body Lotion 2,Beauty & Personal Care,Petalyn,Direct Store (D2C),1569.0,1177.0,1354.0,738.77,72,189,1
+2025-05-12,SKU-0106,Quillon Paperback Novel 1,Books & Stationery,Quillon,Marketplace South,179.0,162.0,,91.15,124,223,0
+2026-01-05,SKU-0079,Northwind Running Shoes 4,Fashion,Northwind,Marketplace South,1409.0,1316.0,,602.94,81,131,0
+2026-01-19,SKU-0046,Mistral Glow Lip Care Kit 1,Beauty & Personal Care,Mistral Glow,Marketplace North,3009.0,2743.0,2987.0,1445.0,117,403,0
+2025-09-29,SKU-0119,Inkwell Notebook Pack 4,Books & Stationery,Inkwell,Marketplace South,399.0,380.0,414.0,169.11,105,389,0
+2025-06-09,SKU-0005,Kestrel Fitness Band 1,Electronics,Kestrel,Marketplace North,2029.0,2333.35,,1360.53,39,166,0
+2025-04-28,SKU-0035,Kestrel Cookware Set 3,Home & Kitchen,Kestrel,Direct Store (D2C),1689.0,1530.0,1396.0,965.76,41,96,0
+2026-05-11,SKU-0091,Strideon Trekking Pole 2,Sports & Outdoors,Strideon,Direct Store (D2C),6199.0,5550.0,5144.0,3108.52,37,102,0
+2025-12-15,SKU-0052,Mistral Glow Lip Care Kit 2,Beauty & Personal Care,Mistral Glow,Direct Store (D2C),239.0,231.0,197.0,110.06,65,175,0
+2025-06-23,SKU-0070,Northwind Backpack 2,Fashion,Northwind,Marketplace South,4779.0,4492.0,4214.0,2352.89,43,145,0
+2026-01-05,SKU-0042,Petalyn Sunscreen 1,Beauty & Personal Care,Petalyn,Direct Store (D2C),1119.0,1034.0,1051.0,460.08,68,137,0
+2025-07-07,SKU-0070,Northwind Backpack 2,Fashion,Northwind,Marketplace North,4689.0,4503.0,4591.0,2364.6,95,246,0
+2025-05-26,SKU-0094,Strideon Dumbbell Set 3,Sports & Outdoors,Strideon,Marketplace North,299.0,289.0,,164.06,39,102,0
+2025-09-15,SKU-0007,Velora Wireless Earbuds 2,Electronics,Velora,Marketplace North,5689.0,5316.0,5053.0,3902.2,85,178,0
+2025-05-26,SKU-0075,Saffra Cotton T-Shirt 3,Fashion,Saffra,Marketplace North,2919.0,2881.0,3160.0,1480.51,194,422,0
+2025-11-03,SKU-0002,Kestrel Smartwatch 1,Electronics,Kestrel,Direct Store (D2C),1739.0,1609.0,1154.0,1002.74,14,74,0
+2026-05-11,SKU-0038,Kestrel Electric Kettle 3,Home & Kitchen,Kestrel,Direct Store (D2C),5279.0,4864.0,,3044.76,76,140,0
+2026-01-19,SKU-0057,Petalyn Body Lotion 3,Beauty & Personal Care,Petalyn,Direct Store (D2C),429.0,415.0,419.0,170.39,24,77,0
+2025-08-18,SKU-0094,Strideon Dumbbell Set 3,Sports & Outdoors,Strideon,Marketplace North,299.0,280.0,,167.03,49,87,0
+2025-02-03,SKU-0067,Northwind Running Shoes 2,Fashion,Northwind,Marketplace North,2309.0,2042.0,,1076.67,56,116,0
+2025-10-13,SKU-0072,Saffra Analog Watch 2,Fashion,Saffra,Marketplace North,579.0,347.0,403.0,261.87,171,579,1
+2026-06-15,SKU-0050,Lumina Beard Trimmer 2,Beauty & Personal Care,Lumina,Marketplace North,479.0,450.0,484.0,156.3,294,754,0
+2026-06-22,SKU-0060,Petalyn Sunscreen 4,Beauty & Personal Care,Petalyn,Marketplace South,239.0,238.0,229.0,86.35,205,364,0
+2025-11-24,SKU-0011,Kestrel Fitness Band 2,Electronics,Kestrel,Direct Store (D2C),1099.0,1015.0,1039.0,654.21,14,58,0
+2025-08-25,SKU-0075,Saffra Cotton T-Shirt 3,Fashion,Saffra,Direct Store (D2C),3039.0,2921.0,3128.0,1491.65,81,229,0
+2025-01-06,SKU-0088,Strideon Dumbbell Set 2,Sports & Outdoors,Strideon,Marketplace North,1509.0,1458.0,1019.0,745.03,10,44,0
+2025-04-07,SKU-0114,Papyra Fountain Pen 3,Books & Stationery,Papyra,Marketplace North,709.0,603.0,645.0,294.24,269,749,1
+2025-09-29,SKU-0083,Northwind Cycling Helmet 1,Sports & Outdoors,Northwind,Direct Store (D2C),1749.0,1694.0,1604.0,808.4,44,168,0
+2025-06-16,SKU-0081,Peakline Yoga Mat 1,Sports & Outdoors,Peakline,Marketplace North,339.0,297.0,320.0,208.93,108,252,0
+2026-06-29,SKU-0052,Mistral Glow Lip Care Kit 2,Beauty & Personal Care,Mistral Glow,Marketplace North,229.0,219.0,204.0,111.9,311,1061,0
+2025-03-10,SKU-0005,Kestrel Fitness Band 1,Electronics,Kestrel,Direct Store (D2C),2109.0,2063.0,1591.0,1339.76,7,41,0
+2026-06-15,SKU-0073,Northwind Running Shoes 3,Fashion,Northwind,Marketplace North,2399.0,2312.0,1988.0,1205.43,202,590,0
+2025-11-24,SKU-0002,Kestrel Smartwatch 1,Electronics,Kestrel,Marketplace South,1699.0,1564.0,,1006.33,28,114,0
+2026-03-02,SKU-0057,Petalyn Body Lotion 3,Beauty & Personal Care,Petalyn,Marketplace South,419.0,314.0,403.0,174.51,113,289,1
+2025-05-26,SKU-0024,Oakmont Water Bottle 1,Home & Kitchen,Oakmont,Direct Store (D2C),3109.0,2643.0,2921.0,1302.04,29,121,1
+2025-06-30,SKU-0059,Lumina Face Serum 4,Beauty & Personal Care,Lumina,Direct Store (D2C),379.0,371.0,403.0,129.24,78,301,0
+2025-12-01,SKU-0036,Oakmont Water Bottle 3,Home & Kitchen,Oakmont,Marketplace North,1769.0,1570.0,1816.0,987.12,67,168,0
+2025-12-22,SKU-0004,Velora Power Bank 1,Electronics,Velora,Marketplace South,2279.0,2135.0,2127.0,1610.53,81,290,0
+2025-09-01,SKU-0005,Kestrel Fitness Band 1,Electronics,Kestrel,Marketplace North,2029.0,1986.0,,1349.43,42,125,0
+2025-03-17,SKU-0028,Hearthly Mixer Grinder 2,Home & Kitchen,Hearthly,Marketplace South,2449.0,2307.0,2221.0,1218.92,98,330,0
+2026-01-12,SKU-0074,Urban Loom Denim Jacket 3,Fashion,Urban Loom,Marketplace North,1149.0,1088.0,1172.0,382.38,61,121,0
+2025-08-25,SKU-0112,Quillon Paperback Novel 2,Books & Stationery,Quillon,Direct Store (D2C),1219.0,1094.0,841.0,703.21,20,50,0
+2025-01-13,SKU-0068,Urban Loom Denim Jacket 2,Fashion,Urban Loom,Marketplace North,529.0,513.0,432.0,252.98,42,136,0
+2025-10-06,SKU-0032,Kestrel Electric Kettle 2,Home & Kitchen,Kestrel,Marketplace North,5889.0,5006.0,,3179.11,,926,1
+2026-02-23,SKU-0109,Quillon Planner 2,Books & Stationery,Quillon,Marketplace North,269.0,262.0,277.0,149.38,102,319,0
+2025-05-26,SKU-0042,Petalyn Sunscreen 1,Beauty & Personal Care,Petalyn,Marketplace North,1079.0,997.0,1055.0,454.83,207,642,0
+2026-05-11,SKU-0064,Northwind Backpack 1,Fashion,Northwind,Marketplace South,2549.0,2474.0,2329.0,1020.77,119,338,0
+2025-04-07,SKU-0025,Hearthly Storage Jars 1,Home & Kitchen,Hearthly,Marketplace South,3139.0,3010.0,3001.0,1434.16,70,187,0
+2025-10-13,SKU-0039,Oakmont Air Fryer 4,Home & Kitchen,Oakmont,Direct Store (D2C),2299.0,2235.0,1908.0,1337.43,44,157,0
+2025-05-26,SKU-0009,Zenvolt Bluetooth Speaker 2,Electronics,Zenvolt,Marketplace South,8409.0,7148.0,8370.0,4777.88,123,386,1
+2026-03-23,SKU-0039,Oakmont Air Fryer 4,Home & Kitchen,Oakmont,Direct Store (D2C),2299.0,2275.0,2115.0,1383.16,25,60,0
+2026-02-16,SKU-0006,Zenvolt USB-C Hub 1,Electronics,Zenvolt,Marketplace South,2449.0,2358.0,2126.0,1583.3,,131,0
+2025-03-31,SKU-0091,Strideon Trekking Pole 2,Sports & Outdoors,Strideon,Direct Store (D2C),6199.0,5540.0,5224.0,2969.78,61,102,0
+2025-04-07,SKU-0091,Strideon Trekking Pole 2,Sports & Outdoors,Strideon,Direct Store (D2C),6199.0,5621.0,5180.0,3063.65,60,192,0
+2026-03-02,SKU-0015,Zenvolt Bluetooth Speaker 3,Electronics,Zenvolt,Marketplace North,6339.0,6093.0,5231.0,4686.36,121,416,0
+2025-06-23,SKU-0009,Zenvolt Bluetooth Speaker 2,Electronics,Zenvolt,Marketplace North,8249.0,8120.0,,4847.73,116,220,0
+2026-04-20,SKU-0011,Kestrel Fitness Band 2,Electronics,Kestrel,Marketplace South,1079.0,1001.0,,661.7,21,119,0
+2026-01-12,SKU-0110,Inkwell Desk Organizer 2,Books & Stationery,Inkwell,Direct Store (D2C),169.0,150.0,175.0,84.5,22,102,0
+2025-12-29,SKU-0044,Lumina Beard Trimmer 1,Beauty & Personal Care,Lumina,Marketplace North,349.0,297.0,323.0,124.78,119,238,1
+2026-06-15,SKU-0084,Peakline Badminton Racket 1,Sports & Outdoors,Peakline,Marketplace North,1909.0,1817.0,1895.0,963.71,16,78,0
+2025-05-05,SKU-0086,Northwind Skipping Rope 1,Sports & Outdoors,Northwind,Marketplace South,5189.0,4840.0,3997.0,3192.83,55,200,0
+2026-04-20,SKU-0112,Quillon Paperback Novel 2,Books & Stationery,Quillon,Marketplace North,1169.0,1044.0,,691.23,62,134,0
+2025-08-18,SKU-0031,Hearthly Storage Jars 2,Home & Kitchen,Hearthly,Direct Store (D2C),2009.0,1889.0,1929.0,862.97,25,70,0
+2025-07-21,SKU-0085,Strideon Trekking Pole 1,Sports & Outdoors,Strideon,Direct Store (D2C),859.0,809.0,765.0,451.95,37,134,0
+2025-08-11,SKU-0018,Zenvolt USB-C Hub 3,Electronics,Zenvolt,Marketplace North,11169.0,10895.0,9674.0,6767.55,74,313,0
+2026-02-02,SKU-0025,Hearthly Storage Jars 1,Home & Kitchen,Hearthly,Marketplace North,3079.0,2964.0,,1473.04,84,211,0
+2025-08-11,SKU-0102,Papyra Fountain Pen 1,Books & Stationery,Papyra,Marketplace North,409.0,327.0,265.0,188.83,203,686,1
+2026-04-20,SKU-0063,Saffra Cotton T-Shirt 1,Fashion,Saffra,Marketplace North,2939.0,2634.0,,1063.07,51,114,0
+2025-02-24,SKU-0081,Peakline Yoga Mat 1,Sports & Outdoors,Peakline,Marketplace South,349.0,312.0,306.0,201.71,49,189,0
+2025-04-07,SKU-0035,Kestrel Cookware Set 3,Home & Kitchen,Kestrel,Marketplace South,1659.0,1493.0,1394.0,951.17,68,127,1
+2025-08-25,SKU-0089,Northwind Cycling Helmet 2,Sports & Outdoors,Northwind,Marketplace North,899.0,865.0,752.0,433.81,84,141,0
+2025-09-01,SKU-0023,Kestrel Cookware Set 1,Home & Kitchen,Kestrel,Marketplace South,379.0,343.0,332.0,213.22,37,50,0
+2025-12-22,SKU-0085,Strideon Trekking Pole 1,Sports & Outdoors,Strideon,Direct Store (D2C),859.0,687.0,797.0,453.8,62,198,1
+2026-06-15,SKU-0039,Oakmont Air Fryer 4,Home & Kitchen,Oakmont,Marketplace North,2209.0,2167.0,2024.0,1386.64,98,318,0
+2026-01-12,SKU-0038,Kestrel Electric Kettle 3,Home & Kitchen,Kestrel,Marketplace North,5079.0,4654.0,5287.0,2949.54,126,492,0
+2025-10-20,SKU-0037,Hearthly Storage Jars 3,Home & Kitchen,Hearthly,Direct Store (D2C),3989.0,2792.0,3869.0,1752.84,60,243,1
+2026-02-16,SKU-0016,Velora Power Bank 3,Electronics,Velora,Direct Store (D2C),3139.0,2819.0,2902.0,2151.38,34,133,0
+2025-01-06,SKU-0109,Quillon Planner 2,Books & Stationery,Quillon,Direct Store (D2C),279.0,274.0,268.0,142.72,28,87,0
+2025-02-24,SKU-0005,Kestrel Fitness Band 1,Electronics,Kestrel,Direct Store (D2C),2109.0,2039.0,1626.0,1348.13,14,62,0
+2025-09-08,SKU-0010,Velora Power Bank 2,Electronics,Velora,Marketplace North,1009.0,951.0,,689.39,144,320,0
+2026-02-02,SKU-0098,Northwind Skipping Rope 3,Sports & Outdoors,Northwind,Marketplace North,709.0,671.0,623.0,404.55,76,271,0
+2025-03-17,SKU-0039,Oakmont Air Fryer 4,Home & Kitchen,Oakmont,Direct Store (D2C),2299.0,2281.0,2107.0,1312.05,37,79,0
+2025-01-20,SKU-0009,Zenvolt Bluetooth Speaker 2,Electronics,Zenvolt,Marketplace South,8409.0,8137.0,8609.0,4644.98,64,245,0
+2026-03-23,SKU-0027,Oakmont Air Fryer 2,Home & Kitchen,Oakmont,Direct Store (D2C),2159.0,2037.0,1934.0,1056.41,79,224,0
+2026-02-16,SKU-0064,Northwind Backpack 1,Fashion,Northwind,Marketplace South,2549.0,2498.0,2293.0,1015.22,112,403,0
+2025-03-03,SKU-0033,Oakmont Air Fryer 3,Home & Kitchen,Oakmont,Direct Store (D2C),6609.0,5988.0,6397.0,3417.96,9,51,0
+2025-05-26,SKU-0116,Inkwell Desk Organizer 3,Books & Stationery,Inkwell,Direct Store (D2C),349.0,316.0,,173.45,28,97,0
+2025-03-31,SKU-0011,Kestrel Fitness Band 2,Electronics,Kestrel,Direct Store (D2C),1099.0,1010.0,1033.0,637.01,13,34,0
+2026-02-09,SKU-0060,Petalyn Sunscreen 4,Beauty & Personal Care,Petalyn,Marketplace North,239.0,238.0,227.0,83.46,202,469,0
+2025-01-20,SKU-0119,Inkwell Notebook Pack 4,Books & Stationery,Inkwell,Marketplace North,389.0,373.0,396.0,164.56,155,432,0
+2025-05-19,SKU-0013,Velora Wireless Earbuds 3,Electronics,Velora,Direct Store (D2C),1139.0,1035.0,,717.81,16,69,0
+2026-02-02,SKU-0008,Kestrel Smartwatch 2,Electronics,Kestrel,Marketplace South,4589.0,4236.0,3995.0,2731.1,51,195,0
+2026-03-23,SKU-0007,Velora Wireless Earbuds 2,Electronics,Velora,Marketplace North,5689.0,5300.0,5141.0,4050.96,108,410,0
+2026-05-18,SKU-0059,Lumina Face Serum 4,Beauty & Personal Care,Lumina,Direct Store (D2C),379.0,377.0,352.0,131.86,91,182,0
+2025-10-13,SKU-0106,Quillon Paperback Novel 1,Books & Stationery,Quillon,Direct Store (D2C),189.0,171.0,160.0,93.67,82,340,0
+2025-04-14,SKU-0070,Northwind Backpack 2,Fashion,Northwind,Marketplace North,4689.0,4454.0,4654.0,2348.28,42,138,0
+2025-08-18,SKU-0008,Kestrel Smartwatch 2,Electronics,Kestrel,Marketplace North,4499.0,4204.0,3952.0,2691.68,88,255,0
+2025-09-08,SKU-0018,Zenvolt USB-C Hub 3,Electronics,Zenvolt,Marketplace North,11169.0,10980.0,9892.0,6737.61,73,331,0
+2025-06-23,SKU-0058,Mistral Glow Lip Care Kit 3,Beauty & Personal Care,Mistral Glow,Marketplace South,349.0,313.0,274.0,103.43,184,305,0
+2025-07-28,SKU-0087,Peakline Yoga Mat 2,Sports & Outdoors,Peakline,Marketplace South,2909.0,2644.0,2792.0,1759.23,80,169,0
+2025-11-24,SKU-0031,Hearthly Storage Jars 2,Home & Kitchen,Hearthly,Marketplace South,1969.0,1834.0,,860.76,47,117,0
+2025-02-24,SKU-0051,Petalyn Body Lotion 2,Beauty & Personal Care,Petalyn,Marketplace North,1509.0,1419.0,,717.19,161,331,0
+2025-08-18,SKU-0050,Lumina Beard Trimmer 2,Beauty & Personal Care,Lumina,Marketplace North,479.0,407.0,494.0,158.17,322,619,1
+2026-03-30,SKU-0056,Lumina Beard Trimmer 3,Beauty & Personal Care,Lumina,Marketplace South,2309.0,2102.0,1926.0,920.48,83,170,0
+2025-04-14,SKU-0059,Lumina Face Serum 4,Beauty & Personal Care,Lumina,Marketplace South,379.0,371.0,399.0,129.73,144,591,0
+2025-07-21,SKU-0047,Lumina Face Serum 2,Beauty & Personal Care,Lumina,Marketplace South,829.0,794.0,668.0,279.44,86,226,0
+2026-02-16,SKU-0006,Zenvolt USB-C Hub 1,Electronics,Zenvolt,Marketplace North,2399.0,2312.0,2020.0,1583.3,99,339,0
+2026-06-29,SKU-0020,Kestrel Smartwatch 4,Electronics,Kestrel,Marketplace South,1459.0,1396.0,1419.0,967.62,99,233,0
+2025-03-10,SKU-0051,Petalyn Body Lotion 2,Beauty & Personal Care,Petalyn,Marketplace North,1509.0,1427.0,,734.03,145,466,0
+2025-06-16,SKU-0054,Petalyn Sunscreen 3,Beauty & Personal Care,Petalyn,Marketplace North,499.0,467.0,466.0,177.45,131,406,0
+2025-11-03,SKU-0036,Oakmont Water Bottle 3,Home & Kitchen,Oakmont,Direct Store (D2C),1839.0,1614.0,1818.0,975.76,37,74,0
+2025-01-13,SKU-0067,Northwind Running Shoes 2,Fashion,Northwind,Marketplace South,2359.0,2096.0,2254.0,1083.08,20,87,0
+2025-11-24,SKU-0027,Oakmont Air Fryer 2,Home & Kitchen,Oakmont,Direct Store (D2C),2159.0,2069.0,1489.0,1060.43,32,108,0
+2025-12-22,SKU-0112,Quillon Paperback Novel 2,Books & Stationery,Quillon,Marketplace South,1189.0,1056.0,856.0,688.25,29,67,0
+2025-12-15,SKU-0093,Peakline Yoga Mat 3,Sports & Outdoors,Peakline,Direct Store (D2C),369.0,346.0,352.0,178.05,35,68,0
+2026-05-04,SKU-0021,Oakmont Air Fryer 1,Home & Kitchen,Oakmont,Marketplace South,1629.0,1531.0,1237.0,781.2,48,123,0
+2026-06-01,SKU-0112,Quillon Paperback Novel 2,Books & Stationery,Quillon,Direct Store (D2C),1219.0,1085.0,967.0,707.4,20,55,0
+2026-04-06,SKU-0026,Kestrel Electric Kettle 1,Home & Kitchen,Kestrel,Direct Store (D2C),2679.0,2351.0,2554.0,1590.85,12,43,0
+2026-03-02,SKU-0049,Mistral Glow Hair Dryer 2,Beauty & Personal Care,Mistral Glow,Marketplace South,3009.0,2873.0,2572.0,1085.91,154,245,0
+2025-08-04,SKU-0074,Urban Loom Denim Jacket 3,Fashion,Urban Loom,Marketplace North,1149.0,689.0,1192.0,382.42,,763,1
+2026-06-22,SKU-0087,Peakline Yoga Mat 2,Sports & Outdoors,Peakline,Marketplace North,2849.0,2574.0,2789.0,1790.13,134,344,0
+2026-02-09,SKU-0040,Hearthly Mixer Grinder 4,Home & Kitchen,Hearthly,Direct Store (D2C),4339.0,4076.0,3224.0,2053.8,34,98,0
+2025-03-03,SKU-0036,Oakmont Water Bottle 3,Home & Kitchen,Oakmont,Direct Store (D2C),1839.0,1640.0,1870.0,961.1,26,77,0
+2025-08-11,SKU-0014,Kestrel Smartwatch 3,Electronics,Kestrel,Marketplace South,4589.0,4480.0,3757.0,2651.0,18,75,0
+2026-03-23,SKU-0029,Kestrel Cookware Set 2,Home & Kitchen,Kestrel,Marketplace South,1519.0,1481.0,1310.0,720.22,45,163,0
+2025-11-17,SKU-0062,Urban Loom Denim Jacket 1,Fashion,Urban Loom,Marketplace North,859.0,840.0,855.0,373.62,101,301,0
+2026-06-15,SKU-0006,Zenvolt USB-C Hub 1,Electronics,Zenvolt,Marketplace South,2449.0,2404.0,1620.0,1616.54,73,167,0
+2025-06-16,SKU-0055,Mistral Glow Hair Dryer 3,Beauty & Personal Care,Mistral Glow,Marketplace North,559.0,520.0,387.0,171.13,128,459,0
+2025-06-23,SKU-0065,Urban Loom Sunglasses 1,Fashion,Urban Loom,Marketplace South,979.0,0,,320.48,96,253,0
+2025-10-27,SKU-0083,Northwind Cycling Helmet 1,Sports & Outdoors,Northwind,Direct Store (D2C),1749.0,1487.0,1578.0,811.35,55,289,1
+2025-10-27,SKU-0102,Papyra Fountain Pen 1,Books & Stationery,Papyra,Marketplace South,419.0,417.0,264.0,187.41,76,207,0
+2025-08-18,SKU-0086,Northwind Skipping Rope 1,Sports & Outdoors,Northwind,Marketplace North,5089.0,4686.0,4202.0,3218.16,72,164,0
+2025-09-22,SKU-0059,Lumina Face Serum 4,Beauty & Personal Care,Lumina,Marketplace South,379.0,377.0,386.0,130.94,139,559,0
+2025-06-30,SKU-0071,Urban Loom Sunglasses 2,Fashion,Urban Loom,Marketplace North,889.0,811.0,744.0,383.85,,478,0
+2025-09-01,SKU-0112,Quillon Paperback Novel 2,Books & Stationery,Quillon,Marketplace North,1169.0,1048.0,,691.97,50,144,0
+2025-09-01,SKU-0093,Peakline Yoga Mat 3,Sports & Outdoors,Peakline,Marketplace North,359.0,339.0,354.0,174.65,121,429,0
+2025-12-15,SKU-0020,Kestrel Smartwatch 4,Electronics,Kestrel,Marketplace South,1459.0,1387.0,1412.0,934.85,64,135,0
+2026-04-06,SKU-0049,Mistral Glow Hair Dryer 2,Beauty & Personal Care,Mistral Glow,Marketplace South,3009.0,2558.0,2578.0,1113.78,173,649,1
+2025-09-29,SKU-0066,Saffra Analog Watch 1,Fashion,Saffra,Marketplace North,3289.0,3246.0,3038.0,1317.13,99,184,0
+2025-01-20,SKU-0004,Velora Power Bank 1,Electronics,Velora,Marketplace North,2239.0,2118.0,2098.0,1566.25,96,212,0
+2026-05-11,SKU-0102,Papyra Fountain Pen 1,Books & Stationery,Papyra,Marketplace North,409.0,398.0,353.0,188.45,172,429,0
+2026-06-15,SKU-0116,Inkwell Desk Organizer 3,Books & Stationery,Inkwell,Direct Store (D2C),349.0,-324.0,,180.12,40,146,0
+2025-02-17,SKU-0102,Papyra Fountain Pen 1,Books & Stationery,Papyra,Marketplace South,419.0,417.0,363.0,184.14,56,56,0
+2026-03-16,SKU-0032,Kestrel Electric Kettle 2,Home & Kitchen,Kestrel,Direct Store (D2C),6119.0,5863.0,5162.0,3235.92,86,198,0
+2025-06-09,SKU-0050,Lumina Beard Trimmer 2,Beauty & Personal Care,Lumina,Direct Store (D2C),499.0,477.0,484.0,150.43,84,386,0
+2025-09-29,SKU-0059,Lumina Face Serum 4,Beauty & Personal Care,Lumina,Marketplace South,379.0,373.0,361.0,129.43,161,373,0
+2025-07-14,SKU-0064,Northwind Backpack 1,Fashion,Northwind,Direct Store (D2C),2599.0,1689.0,,1005.18,130,349,1
+2025-01-13,SKU-0117,Papyra Art Marker Set 3,Books & Stationery,Papyra,Marketplace South,1149.0,1047.0,0,471.76,107,255,0
+2026-03-23,SKU-0022,Hearthly Mixer Grinder 1,Home & Kitchen,Hearthly,Marketplace North,5739.0,5663.0,4395.0,3575.07,76,199,0
+2025-11-24,SKU-0108,Papyra Fountain Pen 2,Books & Stationery,Papyra,Marketplace South,959.0,929.0,872.0,519.53,117,559,0
+2025-05-12,SKU-0048,Petalyn Sunscreen 2,Beauty & Personal Care,Petalyn,Marketplace South,1239.0,1170.0,1235.0,518.7,92,170,0
+2025-09-22,SKU-0022,Hearthly Mixer Grinder 1,Home & Kitchen,Hearthly,Marketplace North,5739.0,5680.0,3561.0,3437.09,66,208,0
+2026-05-04,SKU-0063,Saffra Cotton T-Shirt 1,Fashion,Saffra,Marketplace South,2999.0,2549.0,,1077.14,77,147,1
+2025-06-02,SKU-0024,Oakmont Water Bottle 1,Home & Kitchen,Oakmont,Direct Store (D2C),3109.0,2915.0,2921.0,1286.19,35,108,0
+2025-06-16,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Marketplace North,8129.0,7296.0,6372.0,5166.99,105,329,0
+2026-03-30,SKU-0032,Kestrel Electric Kettle 2,Home & Kitchen,Kestrel,Marketplace South,6009.0,5792.0,,3166.29,140,504,0
+2026-04-20,SKU-0016,Velora Power Bank 3,Electronics,Velora,Direct Store (D2C),3139.0,2813.0,2877.0,2162.38,37,135,0
+2025-01-06,SKU-0053,Lumina Face Serum 3,Beauty & Personal Care,Lumina,Marketplace North,3559.0,3025.0,3629.0,1412.17,188,566,1
+2026-03-02,SKU-0081,Peakline Yoga Mat 1,Sports & Outdoors,Peakline,Marketplace North,339.0,298.0,311.0,212.84,156,472,0
+2026-05-04,SKU-0045,Petalyn Body Lotion 1,Beauty & Personal Care,Petalyn,Marketplace South,3289.0,2912.0,2708.0,1377.39,107,271,0
+2026-05-04,SKU-0072,Saffra Analog Watch 2,Fashion,Saffra,Marketplace North,579.0,434.0,,263.85,67,67,1
+2026-04-27,SKU-0090,Peakline Badminton Racket 2,Sports & Outdoors,Peakline,Marketplace South,1659.0,1557.0,1546.0,794.54,115,326,0
+2025-07-07,SKU-0012,Zenvolt USB-C Hub 2,Electronics,Zenvolt,Direct Store (D2C),3829.0,2872.0,3421.0,2697.51,60,188,1
+2025-04-07,SKU-0034,Hearthly Mixer Grinder 3,Home & Kitchen,Hearthly,Marketplace South,429.0,394.0,420.0,255.62,49,78,0
+2025-08-18,SKU-0015,Zenvolt Bluetooth Speaker 3,Electronics,Zenvolt,Direct Store (D2C),6589.0,6211.0,4562.0,4526.78,29,92,0
+2026-05-04,SKU-0094,Strideon Dumbbell Set 3,Sports & Outdoors,Strideon,Marketplace North,299.0,280.0,,170.73,55,95,0
+2026-05-04,SKU-0065,Urban Loom Sunglasses 1,Fashion,Urban Loom,Marketplace North,959.0,866.0,862.0,330.48,128,287,0
+2026-01-19,SKU-0050,Lumina Beard Trimmer 2,Beauty & Personal Care,Lumina,Marketplace North,479.0,456.0,482.0,156.98,185,387,0
+2025-03-24,SKU-0010,Velora Power Bank 2,Electronics,Velora,Direct Store (D2C),1049.0,973.0,952.0,676.65,52,85,0
+2025-03-03,SKU-0112,Quillon Paperback Novel 2,Books & Stationery,Quillon,Marketplace South,1189.0,1089.0,966.0,675.76,43,136,0
+2025-08-04,SKU-0087,Peakline Yoga Mat 2,Sports & Outdoors,Peakline,Marketplace North,2849.0,2588.0,2218.0,1759.88,85,227,0
+2025-04-21,SKU-0031,Hearthly Storage Jars 2,Home & Kitchen,Hearthly,Direct Store (D2C),2009.0,1861.0,,848.54,16,38,0
+2025-02-24,SKU-0021,Oakmont Air Fryer 1,Home & Kitchen,Oakmont,Marketplace North,1599.0,"₹1,531",1462.0,728.52,60,243,0
+2026-04-27,SKU-0007,Velora Wireless Earbuds 2,Electronics,Velora,Marketplace North,5689.0,5213.0,5044.0,3957.52,132,441,0
+2025-07-07,SKU-0101,Inkwell Notebook Pack 1,Books & Stationery,Inkwell,Marketplace North,189.0,182.0,170.0,105.28,140,341,0
+2025-06-02,SKU-0047,Lumina Face Serum 2,Beauty & Personal Care,Lumina,Marketplace North,809.0,784.0,753.0,274.48,110,385,0
+2025-10-20,SKU-0034,Hearthly Mixer Grinder 3,Home & Kitchen,Hearthly,Marketplace North,419.0,389.0,415.0,253.78,90,164,0
+2025-12-15,SKU-0054,Petalyn Sunscreen 3,Beauty & Personal Care,Petalyn,Marketplace North,499.0,467.0,465.0,178.04,103,262,0
+2025-01-20,SKU-0034,Hearthly Mixer Grinder 3,Home & Kitchen,Hearthly,Direct Store (D2C),439.0,405.0,416.0,246.12,25,100,0
+2025-06-09,SKU-0118,Quillon Paperback Novel 3,Books & Stationery,Quillon,Direct Store (D2C),469.0,431.0,378.0,199.46,17,46,0
+2025-03-24,SKU-0111,Papyra Art Marker Set 2,Books & Stationery,Papyra,Marketplace North,329.0,313.0,284.0,182.19,94,323,0
+2025-08-04,SKU-0035,Kestrel Cookware Set 3,Home & Kitchen,Kestrel,Marketplace South,1659.0,1488.0,1427.0,975.05,75,298,0
+2025-10-20,SKU-0013,Velora Wireless Earbuds 3,Electronics,Velora,Marketplace North,1099.0,1002.0,1068.0,727.35,87,321,0
+2025-06-23,SKU-0012,Zenvolt USB-C Hub 2,Electronics,Zenvolt,Direct Store (D2C),3829.0,3482.0,3494.0,2635.3,34,88,0
+2025-02-10,SKU-0117,Papyra Art Marker Set 3,Books & Stationery,Papyra,Marketplace South,1149.0,1054.0,1016.0,474.22,95,318,0
+2026-05-25,SKU-0046,Mistral Glow Lip Care Kit 1,Beauty & Personal Care,Mistral Glow,Marketplace South,3069.0,2835.0,,1446.76,88,245,0
+2026-05-25,SKU-0025,Hearthly Storage Jars 1,Home & Kitchen,Hearthly,Direct Store (D2C),3199.0,3080.0,3079.0,1459.8,25,109,0
+2026-04-27,SKU-0035,Kestrel Cookware Set 3,Home & Kitchen,Kestrel,Marketplace South,1659.0,1907.85,,989.79,103,193,0
+2025-05-05,SKU-0016,Velora Power Bank 3,Electronics,Velora,Marketplace North,3019.0,2712.0,2814.0,2100.46,71,225,0
+2025-10-27,SKU-0020,Kestrel Smartwatch 4,Electronics,Kestrel,Marketplace South,1459.0,"₹1,396",1453.0,938.53,101,347,0
+2025-07-21,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Marketplace South,8289.0,7423.0,6481.0,5191.25,102,184,0
+2026-01-19,SKU-0023,Kestrel Cookware Set 1,Home & Kitchen,Kestrel,Marketplace North,369.0,332.0,,215.78,45,162,0
+2026-01-05,SKU-0024,Oakmont Water Bottle 1,Home & Kitchen,Oakmont,Marketplace South,3049.0,2915.0,2952.0,1317.94,86,157,0
+2025-03-31,SKU-0112,Quillon Paperback Novel 2,Books & Stationery,Quillon,Direct Store (D2C),1219.0,1113.0,974.0,689.33,16,51,0
+2025-04-28,SKU-0059,Lumina Face Serum 4,Beauty & Personal Care,Lumina,Marketplace North,369.0,362.0,409.0,128.09,218,754,0
+2025-07-28,SKU-0053,Lumina Face Serum 3,Beauty & Personal Care,Lumina,Marketplace North,3559.0,3463.0,3568.0,1416.9,194,374,0
+2025-11-24,SKU-0095,Northwind Cycling Helmet 3,Sports & Outdoors,Northwind,Marketplace North,2199.0,1957.0,2254.0,1157.5,95,138,0
+2025-11-03,SKU-0020,Kestrel Smartwatch 4,Electronics,Kestrel,Marketplace South,1459.0,1417.0,1404.0,935.41,141,403,0
+2025-01-27,SKU-0002,Kestrel Smartwatch 1,Electronics,Kestrel,Marketplace South,1699.0,1601.0,1446.0,971.32,26,79,0
+2026-01-12,SKU-0024,Oakmont Water Bottle 1,Home & Kitchen,Oakmont,Direct Store (D2C),3109.0,2969.0,2996.0,1308.87,25,50,0
+2025-06-23,SKU-0101,Inkwell Notebook Pack 1,Books & Stationery,Inkwell,Marketplace South,189.0,183.0,169.0,106.68,103,266,0
+2025-09-08,SKU-0099,Peakline Yoga Mat 4,Sports & Outdoors,Peakline,Marketplace North,749.0,725.0,735.0,387.94,77,163,0
+2025-06-02,SKU-0022,Hearthly Mixer Grinder 1,Home & Kitchen,Hearthly,Marketplace North,5739.0,5674.0,4452.0,3430.85,57,241,0
+2025-02-10,SKU-0064,Northwind Backpack 1,Fashion,Northwind,Marketplace South,2549.0,2492.0,2346.0,988.42,102,388,0
+2025-12-08,SKU-0015,Zenvolt Bluetooth Speaker 3,Electronics,Zenvolt,Marketplace North,6339.0,6100.0,6030.0,4675.65,93,323,0
+2025-01-06,SKU-0105,Papyra Art Marker Set 1,Books & Stationery,Papyra,Marketplace North,299.0,285.0,305.0,161.27,182,323,0
+2025-09-22,SKU-0033,Oakmont Air Fryer 3,Home & Kitchen,Oakmont,Marketplace North,6359.0,5087.0,,3404.85,42,97,1
+2025-09-29,SKU-0005,Kestrel Fitness Band 1,Electronics,Kestrel,Marketplace North,2029.0,1942.0,,1366.48,26,82,0
+2025-09-22,SKU-0101,Inkwell Notebook Pack 1,Books & Stationery,Inkwell,Marketplace South,189.0,184.0,166.0,105.13,93,181,0
+2026-06-01,SKU-0016,Velora Power Bank 3,Electronics,Velora,Marketplace South,3079.0,2741.0,2872.0,2170.19,67,240,0
+2025-08-11,SKU-0057,Petalyn Body Lotion 3,Beauty & Personal Care,Petalyn,Direct Store (D2C),429.0,418.0,416.0,167.29,30,121,0
+2026-05-04,SKU-0085,Strideon Trekking Pole 1,Sports & Outdoors,Strideon,Marketplace South,849.0,790.0,786.0,458.93,74,317,0
+2026-02-23,SKU-0109,Quillon Planner 2,Books & Stationery,Quillon,Marketplace South,269.0,261.0,272.0,149.38,71,232,0
+2026-05-04,SKU-0119,Inkwell Notebook Pack 4,Books & Stationery,Inkwell,Marketplace North,389.0,₹368,343.0,173.76,144,374,0
+2026-06-29,SKU-0109,Quillon Planner 2,Books & Stationery,Quillon,Marketplace South,269.0,263.0,275.0,148.55,100,180,0
+2025-02-17,SKU-0029,Kestrel Cookware Set 2,Home & Kitchen,Kestrel,Marketplace North,1489.0,1446.0,1318.0,684.21,60,124,0
+2025-11-24,SKU-0076,Northwind Backpack 3,Fashion,Northwind,Marketplace South,579.0,558.0,570.0,267.75,45,113,0
+2026-04-06,SKU-0083,Northwind Cycling Helmet 1,Sports & Outdoors,Northwind,Marketplace North,1679.0,1657.0,1549.0,844.49,110,228,0
+2025-09-22,SKU-0052,Mistral Glow Lip Care Kit 2,Beauty & Personal Care,Mistral Glow,Direct Store (D2C),239.0,234.0,165.0,108.41,73,216,0
+2025-05-12,SKU-0109,Quillon Planner 2,Books & Stationery,Quillon,Marketplace South,269.0,229.0,268.0,147.83,104,311,1
+2026-06-15,SKU-0092,Northwind Skipping Rope 2,Sports & Outdoors,Northwind,Direct Store (D2C),2349.0,2131.0,2117.0,1435.83,47,80,0
+2025-07-07,SKU-0112,Quillon Paperback Novel 2,Books & Stationery,Quillon,Direct Store (D2C),1219.0,1116.0,979.0,688.42,15,66,0
+,SKU-0110,Inkwell Desk Organizer 2,Books & Stationery,Inkwell,Marketplace North,159.0,139.0,175.0,83.68,61,203,0
+2025-03-03,SKU-0032,Kestrel Electric Kettle 2,Home & Kitchen,Kestrel,Marketplace North,5889.0,5623.0,5026.0,3075.38,175,478,0
+2026-01-12,SKU-0071,Urban Loom Sunglasses 2,Fashion,Urban Loom,Marketplace South,909.0,833.0,755.0,394.24,129,260,0
+2025-09-15,SKU-0102,Papyra Fountain Pen 1,Books & Stationery,Papyra,Marketplace North,409.0,348.0,348.0,186.48,124,434,1
+2026-01-05,SKU-0039,Oakmont Air Fryer 4,Home & Kitchen,Oakmont,Marketplace North,2209.0,1988.0,2121.0,1374.5,,349,1
+2026-01-12,SKU-0080,Urban Loom Denim Jacket 4,Fashion,Urban Loom,Marketplace South,1009.0,964.0,1051.0,418.91,24,103,0
+2026-06-15,SKU-0010,Velora Power Bank 2,Electronics,Velora,Marketplace North,1009.0,936.0,,707.45,163,558,0
+2026-04-13,SKU-0096,Peakline Badminton Racket 3,Sports & Outdoors,Peakline,Direct Store (D2C),2749.0,2604.0,,1506.49,27,129,0
+2026-04-27,SKU-0092,Northwind Skipping Rope 2,Sports & Outdoors,Northwind,Direct Store (D2C),2349.0,2166.0,1808.0,1416.86,40,114,0
+2026-04-13,SKU-0036,Oakmont Water Bottle 3,Home & Kitchen,Oakmont,Marketplace North,1769.0,1568.0,1804.0,993.85,87,245,0
+2025-06-30,SKU-0119,Inkwell Notebook Pack 4,Books & Stationery,Inkwell,Marketplace North,389.0,376.0,,168.22,137,455,0
+2026-03-16,SKU-0009,Zenvolt Bluetooth Speaker 2,Electronics,Zenvolt,Marketplace South,8409.0,8275.0,8647.0,4895.51,120,215,0
+2025-10-13,SKU-0040,Hearthly Mixer Grinder 4,Home & Kitchen,Hearthly,Marketplace South,4249.0,2974.0,3131.0,2026.15,194,335,1
+2025-02-03,SKU-0118,Quillon Paperback Novel 3,Books & Stationery,Quillon,Marketplace North,449.0,410.0,,194.42,45,78,0
+2025-11-24,SKU-0040,Hearthly Mixer Grinder 4,Home & Kitchen,Hearthly,Marketplace South,4249.0,4046.0,3188.0,2030.94,63,261,0
+2026-05-25,SKU-0021,Oakmont Air Fryer 1,Home & Kitchen,Oakmont,Marketplace North,1599.0,1512.0,1420.0,777.04,105,266,0
+2026-02-23,SKU-0063,Saffra Cotton T-Shirt 1,Fashion,Saffra,Marketplace South,2999.0,2694.0,,1074.94,39,75,0
+2025-11-10,SKU-0032,Kestrel Electric Kettle 2,Home & Kitchen,Kestrel,Marketplace South,6009.0,5731.0,,3149.97,165,285,0
+2025-03-17,SKU-0089,Northwind Cycling Helmet 2,Sports & Outdoors,Northwind,Marketplace North,899.0,809.0,762.0,428.98,93,309,1
+2026-03-09,SKU-0112,Quillon Paperback Novel 2,Books & Stationery,Quillon,Marketplace North,1169.0,1049.0,,690.6,39,91,0
+2025-07-14,SKU-0009,Zenvolt Bluetooth Speaker 2,Electronics,Zenvolt,Marketplace South,8409.0,8200.0,8468.0,4754.15,85,298,0
+2025-06-23,SKU-0087,Peakline Yoga Mat 2,Sports & Outdoors,Peakline,Marketplace North,2849.0,2650.0,2797.0,1737.7,37,37,0
+2026-03-02,SKU-0033,Oakmont Air Fryer 3,Home & Kitchen,Oakmont,Direct Store (D2C),6609.0,5979.0,6423.0,3531.73,7,50,0
+2025-09-01,SKU-0031,Hearthly Storage Jars 2,Home & Kitchen,Hearthly,Marketplace South,1969.0,1865.0,1929.0,871.89,36,113,0
+2026-04-06,SKU-0050,Lumina Beard Trimmer 2,Beauty & Personal Care,Lumina,Marketplace North,479.0,431.0,482.0,158.16,236,833,1
+2025-11-17,SKU-0056,Lumina Beard Trimmer 3,Beauty & Personal Care,Lumina,Marketplace North,2269.0,2064.0,1943.0,895.75,61,61,0
+2025-07-14,SKU-0051,Petalyn Body Lotion 2,Beauty & Personal Care,Petalyn,Direct Store (D2C),1569.0,1486.0,1110.0,741.82,51,114,0
+2025-09-29,SKU-0064,Northwind Backpack 1,Fashion,Northwind,Direct Store (D2C),2599.0,2491.0,1803.0,1021.92,39,134,0
+2026-01-05,SKU-0106,Quillon Paperback Novel 1,Books & Stationery,Quillon,Marketplace South,179.0,164.0,,93.07,171,326,0
+2026-03-16,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Marketplace North,8129.0,6910.0,6473.0,5304.19,130,423,1
+2025-03-03,SKU-0057,Petalyn Body Lotion 3,Beauty & Personal Care,Petalyn,Marketplace South,419.0,₹398,405.0,168.28,43,82,0
+2026-06-22,SKU-0055,Mistral Glow Hair Dryer 3,Beauty & Personal Care,Mistral Glow,Marketplace North,559.0,534.0,493.0,176.88,153,692,0
+2026-01-05,SKU-0119,Inkwell Notebook Pack 4,Books & Stationery,Inkwell,Marketplace South,399.0,377.0,398.0,173.73,90,313,0
+2025-08-11,SKU-0119,Inkwell Notebook Pack 4,Books & Stationery,Inkwell,Marketplace North,389.0,369.0,396.0,171.42,134,478,0
+2025-08-18,SKU-0028,Hearthly Mixer Grinder 2,Home & Kitchen,Hearthly,Marketplace South,2449.0,2315.0,2202.0,1204.0,137,212,0
+2025-11-24,SKU-0046,Mistral Glow Lip Care Kit 1,Beauty & Personal Care,Mistral Glow,Marketplace South,3069.0,2814.0,2974.0,1434.4,84,195,0
+31/02/2025,SKU-0004,Velora Power Bank 1,Electronics,Velora,Direct Store (D2C),2329.0,2138.0,1849.0,1567.87,48,95,0
+2026-01-05,SKU-0052,Mistral Glow Lip Care Kit 2,Beauty & Personal Care,Mistral Glow,Direct Store (D2C),239.0,179.0,200.0,111.0,87,225,1
+2025-08-18,SKU-0094,Strideon Dumbbell Set 3,Sports & Outdoors,Strideon,Marketplace South,299.0,284.0,298.0,167.03,41,76,0
+2025-12-01,SKU-0078,Saffra Analog Watch 3,Fashion,Saffra,Marketplace North,4219.0,2531.0,3801.0,1438.96,353,604,1
+2025-10-06,SKU-0116,Inkwell Desk Organizer 3,Books & Stationery,Inkwell,Marketplace North,339.0,309.0,291.0,172.56,110,293,0
+not a date,SKU-0084,Peakline Badminton Racket 1,Sports & Outdoors,Peakline,Marketplace North,1909.0,1790.0,1865.0,2148.0,16,55,0
+2025-03-03,SKU-0106,Quillon Paperback Novel 1,Books & Stationery,Quillon,Direct Store (D2C),189.0,171.0,158.0,88.98,58,129,0
+2025-06-09,SKU-0119,Inkwell Notebook Pack 4,Books & Stationery,Inkwell,Marketplace North,389.0,372.0,403.0,169.05,146,457,0
+2025-03-31,SKU-0059,Lumina Face Serum 4,Beauty & Personal Care,Lumina,Marketplace South,379.0,368.0,405.0,128.13,119,432,0
+2025-10-20,SKU-0090,Peakline Badminton Racket 2,Sports & Outdoors,Peakline,Marketplace South,1659.0,1410.0,1620.0,797.94,156,254,1
+2026-03-23,SKU-0109,Quillon Planner 2,Books & Stationery,Quillon,Direct Store (D2C),279.0,0,219.0,150.17,27,118,0
+2025-06-09,SKU-0006,Zenvolt USB-C Hub 1,Electronics,Zenvolt,Marketplace North,2399.0,2346.0,2043.0,1584.91,87,175,0
+2025-06-16,SKU-0067,Northwind Running Shoes 2,Fashion,Northwind,Direct Store (D2C),2399.0,2114.0,1778.0,1104.17,8,70,0
+2026-01-19,SKU-0043,Mistral Glow Hair Dryer 1,Beauty & Personal Care,Mistral Glow,Marketplace North,449.0,416.0,380.0,499.2,117,354,0
+2026-01-19,SKU-0076,Northwind Backpack 3,Fashion,Northwind,Marketplace North,569.0,544.0,573.0,273.26,60,258,0
+2025-06-23,SKU-0050,Lumina Beard Trimmer 2,Beauty & Personal Care,Lumina,Marketplace South,489.0,461.0,488.0,156.5,144,230,0
+2026-06-01,SKU-0098,Northwind Skipping Rope 3,Sports & Outdoors,Northwind,Marketplace North,709.0,677.0,514.0,412.11,114,458,0
+2026-04-13,SKU-0050,Lumina Beard Trimmer 2,Beauty & Personal Care,Lumina,Marketplace South,489.0,462.0,479.0,158.43,207,362,0
+2025-06-09,SKU-0052,Mistral Glow Lip Care Kit 2,Beauty & Personal Care,Mistral Glow,Marketplace South,229.0,172.0,201.0,108.47,218,760,1
+2026-01-19,SKU-0110,Inkwell Desk Organizer 2,Books & Stationery,Inkwell,Direct Store (D2C),169.0,194.35,176.0,84.25,26,109,0
+2025-03-03,SKU-0102,Papyra Fountain Pen 1,Books & Stationery,Papyra,Marketplace North,409.0,400.0,356.0,182.09,140,494,0
+2025-07-07,SKU-0030,Oakmont Water Bottle 2,Home & Kitchen,Oakmont,Marketplace South,1029.0,963.0,945.0,582.37,54,54,0
+2025-11-03,SKU-0081,Peakline Yoga Mat 1,Sports & Outdoors,Peakline,Marketplace South,349.0,307.0,305.0,207.03,93,338,0
+2025-12-08,SKU-0015,Zenvolt Bluetooth Speaker 3,Electronics,Zenvolt,Marketplace South,6469.0,6256.0,6115.0,4675.65,89,149,0
+2026-03-02,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Direct Store (D2C),8449.0,7673.0,6293.0,5234.89,46,95,0
+2026-03-09,SKU-0049,Mistral Glow Hair Dryer 2,Beauty & Personal Care,Mistral Glow,Marketplace North,2949.0,2812.0,2506.0,1097.38,194,541,0
+2025-07-28,SKU-0092,Northwind Skipping Rope 2,Sports & Outdoors,Northwind,Marketplace North,2259.0,2597.85,1872.0,1394.6,87,363,0
+2026-06-08,SKU-0072,Saffra Analog Watch 2,Fashion,Saffra,Marketplace South,589.0,552.0,527.0,268.47,40,135,0
+2025-12-22,SKU-0054,Petalyn Sunscreen 3,Beauty & Personal Care,Petalyn,Marketplace South,509.0,433.0,354.0,176.12,83,243,1
+2025-11-24,SKU-0051,Petalyn Body Lotion 2,Beauty & Personal Care,Petalyn,Direct Store (D2C),1569.0,1488.0,1365.0,733.19,53,198,0
+2025-03-31,SKU-0017,Kestrel Fitness Band 3,Electronics,Kestrel,Marketplace North,2229.0,-2176.0,1869.0,1418.07,106,446,0
+2025-09-29,SKU-0116,Inkwell Desk Organizer 3,Books & Stationery,Inkwell,Marketplace South,349.0,319.0,321.0,171.92,57,140,0
+2026-04-06,SKU-0070,Northwind Backpack 2,Fashion,Northwind,Marketplace North,4689.0,4498.0,4709.0,2454.86,70,193,0
+2026-03-09,SKU-0054,Petalyn Sunscreen 3,Beauty & Personal Care,Petalyn,Marketplace South,509.0,486.0,459.0,177.1,74,251,0
+2026-04-13,SKU-0035,Kestrel Cookware Set 3,Home & Kitchen,Kestrel,Marketplace North,1629.0,1457.0,1363.0,968.07,95,359,0
+2025-09-29,SKU-0038,Kestrel Electric Kettle 3,Home & Kitchen,Kestrel,Marketplace North,5079.0,4645.0,4270.0,2982.57,165,317,0
+2026-04-13,SKU-0020,Kestrel Smartwatch 4,Electronics,Kestrel,Marketplace North,1429.0,1376.0,1438.0,945.85,129,466,0
+2025-09-01,SKU-0117,Papyra Art Marker Set 3,Books & Stationery,Papyra,Marketplace North,1129.0,1025.0,1014.0,481.87,195,314,0
+2025-08-25,SKU-0092,Northwind Skipping Rope 2,Sports & Outdoors,Northwind,Marketplace North,2259.0,2063.0,2073.0,1399.48,83,229,0
+2025-02-17,SKU-0116,Inkwell Desk Organizer 3,Books & Stationery,Inkwell,Direct Store (D2C),349.0,324.0,,171.58,30,78,0
+2026-06-01,SKU-0120,Papyra Fountain Pen 4,Books & Stationery,Papyra,Direct Store (D2C),989.0,907.0,,439.87,53,116,0
+2025-06-30,SKU-0068,Urban Loom Denim Jacket 2,Fashion,Urban Loom,Direct Store (D2C),549.0,₹532,503.0,254.84,23,47,0
+2026-01-12,SKU-0058,Mistral Glow Lip Care Kit 3,Beauty & Personal Care,Mistral Glow,Marketplace North,339.0,305.0,,105.13,204,764,0
+2025-08-25,SKU-0006,Zenvolt USB-C Hub 1,Electronics,Zenvolt,Marketplace North,2399.0,2375.0,2072.0,1603.25,83,284,0
+2025-04-07,SKU-0042,Petalyn Sunscreen 1,Beauty & Personal Care,Petalyn,Marketplace North,1079.0,995.0,1034.0,456.71,202,335,0
+2026-05-04,SKU-0088,Strideon Dumbbell Set 2,Sports & Outdoors,Strideon,Marketplace South,1539.0,1509.0,1367.0,757.63,15,49,0
+2026-05-11,SKU-0051,Petalyn Body Lotion 2,Beauty & Personal Care,Petalyn,Marketplace South,1539.0,1475.0,1359.0,749.78,136,298,0
+2025-12-15,SKU-0092,Northwind Skipping Rope 2,Sports & Outdoors,Northwind,Direct Store (D2C),2349.0,-2176.0,2156.0,1454.46,41,94,0
+2025-08-04,SKU-0056,Lumina Beard Trimmer 3,Beauty & Personal Care,Lumina,Marketplace North,2269.0,2071.0,1926.0,888.22,127,430,0
+2025-02-03,SKU-0086,Northwind Skipping Rope 1,Sports & Outdoors,Northwind,Marketplace North,5089.0,4716.0,4095.0,5659.2,58,124,0
+2026-01-26,SKU-0120,Papyra Fountain Pen 4,Books & Stationery,Papyra,Direct Store (D2C),989.0,902.0,,437.69,43,164,0
+2025-01-27,SKU-0113,Inkwell Notebook Pack 3,Books & Stationery,Inkwell,Direct Store (D2C),499.0,466.0,417.0,203.8,70,113,0
+2025-12-01,SKU-0120,Papyra Fountain Pen 4,Books & Stationery,Papyra,Direct Store (D2C),989.0,902.0,,428.57,40,117,0
+2025-11-24,SKU-0075,Saffra Cotton T-Shirt 3,Fashion,Saffra,Marketplace North,2919.0,2827.0,3142.0,1467.77,142,580,0
+2025-09-15,SKU-0050,Lumina Beard Trimmer 2,Beauty & Personal Care,Lumina,Direct Store (D2C),499.0,468.0,504.0,155.84,74,222,0
+2025-03-03,SKU-0081,Peakline Yoga Mat 1,Sports & Outdoors,Peakline,Marketplace North,339.0,306.0,,206.72,105,256,0
+2025-07-07,SKU-0066,Saffra Analog Watch 1,Fashion,Saffra,Marketplace North,3289.0,3230.0,,1305.88,108,359,0
+2026-06-08,SKU-0107,Inkwell Notebook Pack 2,Books & Stationery,Inkwell,Marketplace South,729.0,₹656,742.0,323.39,70,251,0
+2025-08-18,SKU-0075,Saffra Cotton T-Shirt 3,Fashion,Saffra,Marketplace North,2919.0,2827.0,3096.0,1478.33,190,739,0
+2025-05-12,SKU-0091,Strideon Trekking Pole 2,Sports & Outdoors,Strideon,Marketplace North,5959.0,5323.0,5266.0,2970.01,183,307,0
+2026-05-11,SKU-0094,Strideon Dumbbell Set 3,Sports & Outdoors,Strideon,Marketplace South,299.0,286.0,298.0,169.95,33,106,0
+2025-03-03,SKU-0059,Lumina Face Serum 4,Beauty & Personal Care,Lumina,Marketplace South,379.0,284.0,396.0,128.15,209,645,1
+2026-05-11,SKU-0027,Oakmont Air Fryer 2,Home & Kitchen,Oakmont,Marketplace South,2119.0,2003.0,1865.0,1063.34,146,562,0
+2025-06-02,SKU-0013,Velora Wireless Earbuds 3,Electronics,Velora,Marketplace North,1099.0,1014.0,,726.02,65,115,0
+2025-12-22,SKU-0005,Kestrel Fitness Band 1,Electronics,Kestrel,Marketplace North,2029.0,1979.0,,1357.96,38,108,0
+2025-11-10,SKU-0025,Hearthly Storage Jars 1,Home & Kitchen,Hearthly,Direct Store (D2C),3199.0,2239.0,2990.0,1466.88,73,178,1
+2025-06-16,SKU-0095,Northwind Cycling Helmet 3,Sports & Outdoors,Northwind,Marketplace North,2199.0,1952.0,2310.0,1146.73,90,281,0
+2026-02-16,SKU-0034,Hearthly Mixer Grinder 3,Home & Kitchen,Hearthly,Marketplace South,429.0,394.0,418.0,260.55,61,152,0
+2025-05-26,SKU-0003,Zenvolt Bluetooth Speaker 1,Electronics,Zenvolt,Marketplace North,1109.0,1038.0,1179.0,628.27,55,148,0
+2025-05-19,SKU-0014,Kestrel Smartwatch 3,Electronics,Kestrel,Marketplace South,4589.0,4486.0,3766.0,2607.37,25,94,0
+2026-01-26,SKU-0068,Urban Loom Denim Jacket 2,Fashion,Urban Loom,Direct Store (D2C),549.0,538.0,502.0,261.4,14,31,0
+2025-04-21,SKU-0071,Urban Loom Sunglasses 2,Fashion,Urban Loom,Marketplace South,909.0,820.0,751.0,379.83,113,435,0
+2026-03-09,SKU-0015,Zenvolt Bluetooth Speaker 3,Electronics,Zenvolt,Marketplace South,6469.0,6157.0,5988.0,4630.28,101,350,0
+2026-06-29,SKU-0023,Kestrel Cookware Set 1,Home & Kitchen,Kestrel,Marketplace South,379.0,338.0,342.0,218.03,27,114,0
+2026-04-20,SKU-0061,Northwind Running Shoes 1,Fashion,Northwind,Marketplace South,1559.0,1481.0,1505.0,598.27,99,269,0
+2025-05-26,SKU-0082,Strideon Dumbbell Set 1,Sports & Outdoors,Strideon,Marketplace South,1059.0,983.0,898.0,516.16,72,169,0
+2026-03-16,SKU-0029,Kestrel Cookware Set 2,Home & Kitchen,Kestrel,Marketplace North,1489.0,1480.0,1287.0,707.07,41,168,0
+2025-05-26,SKU-0095,Northwind Cycling Helmet 3,Sports & Outdoors,Northwind,Marketplace South,2239.0,1960.0,2071.0,1113.07,63,107,0
+2025-08-04,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Marketplace South,8289.0,6631.0,6281.0,5159.44,,292,1
+2025-04-21,SKU-0035,Kestrel Cookware Set 3,Home & Kitchen,Kestrel,Direct Store (D2C),1689.0,1506.0,1430.0,958.0,39,136,0
+2026-05-04,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Marketplace South,8289.0,7491.0,6368.0,5316.03,80,318,0
+2025-04-28,SKU-0099,Peakline Yoga Mat 4,Sports & Outdoors,Peakline,Marketplace South,759.0,726.0,742.0,380.01,94,320,0
+2025-01-13,SKU-0086,Northwind Skipping Rope 1,Sports & Outdoors,Northwind,Marketplace North,5089.0,4672.0,4115.0,3136.18,63,236,0
+2025-10-13,SKU-0038,Kestrel Electric Kettle 3,Home & Kitchen,Kestrel,Marketplace North,5079.0,3555.0,5224.0,2946.69,251,528,1
+2026-02-02,SKU-0008,Kestrel Smartwatch 2,Electronics,Kestrel,Marketplace South,4589.0,4236.0,3995.0,2731.1,51,195,0
+2025-03-17,SKU-0028,Hearthly Mixer Grinder 2,Home & Kitchen,Hearthly,Marketplace South,2449.0,2307.0,2221.0,1218.92,98,330,0
+2025-08-18,SKU-0094,Strideon Dumbbell Set 3,Sports & Outdoors,Strideon,Marketplace North,299.0,280.0,,167.03,49,87,0
+2026-03-16,SKU-0032,Kestrel Electric Kettle 2,Home & Kitchen,Kestrel,Direct Store (D2C),6119.0,5863.0,5162.0,3235.92,86,198,0
+2025-04-21,SKU-0071,Urban Loom Sunglasses 2,Fashion,Urban Loom,Marketplace South,909.0,820.0,751.0,379.83,113,435,0
+2026-04-06,SKU-0049,Mistral Glow Hair Dryer 2,Beauty & Personal Care,Mistral Glow,Marketplace South,3009.0,2558.0,2578.0,1113.78,173,649,1
+2025-05-26,SKU-0095,Northwind Cycling Helmet 3,Sports & Outdoors,Northwind,Marketplace South,2239.0,1960.0,2071.0,1113.07,63,107,0
+2026-05-11,SKU-0064,Northwind Backpack 1,Fashion,Northwind,Marketplace South,2549.0,2474.0,2329.0,1020.77,119,338,0
+2025-05-05,SKU-0052,Mistral Glow Lip Care Kit 2,Beauty & Personal Care,Mistral Glow,Direct Store (D2C),239.0,228.0,197.0,109.12,70,262,0
+2025-09-01,SKU-0083,Northwind Cycling Helmet 1,Sports & Outdoors,Northwind,Direct Store (D2C),1749.0,1399.0,1587.0,817.91,41,188,1
+2025-10-13,SKU-0039,Oakmont Air Fryer 4,Home & Kitchen,Oakmont,Direct Store (D2C),2299.0,2235.0,1908.0,1337.43,42,157,0
+2025-06-16,SKU-0001,Velora Wireless Earbuds 1,Electronics,Velora,Marketplace North,8129.0,7296.0,6372.0,5166.99,35,329,0
+2026-01-19,SKU-0046,Mistral Glow Lip Care Kit 1,Beauty & Personal Care,Mistral Glow,Marketplace North,3009.0,2743.0,2987.0,1445.0,32,403,0
+2025-12-08,SKU-0015,Zenvolt Bluetooth Speaker 3,Electronics,Zenvolt,Marketplace North,6339.0,6100.0,6030.0,4675.65,3,323,0
+2025-05-19,SKU-0014,Kestrel Smartwatch 3,Electronics,Kestrel,Marketplace South,4589.0,4486.0,3766.0,2607.37,37,94,0
